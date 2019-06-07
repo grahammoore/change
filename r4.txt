@@ -1,0 +1,23 @@
+/home/grahamm/workspaces/change/venv/bin/python /home/grahamm/workspaces/change/GCSE-TASK-2v4.py
+Starting change is £463.11
+Note or coin value 20
+£20 needed is 23
+change after £20 is £3.110000000
+Note or coin value 10
+Note or coin value 5
+Note or coin value 2
+£2 needed is 1
+change after £2 is £1.110000000
+Note or coin value 1
+£1 needed is 1
+change after £1 is £0.110000000
+Note or coin value 0.5
+Note or coin value 0.2
+Note or coin value 0.1
+10p needed is 1
+change after 10p is £0.0100000000
+Note or coin value 0.05
+Note or coin value 0.02
+Note or coin value 0.01
+
+Process finished with exit code 0
